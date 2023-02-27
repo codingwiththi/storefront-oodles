@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "EVER-LOOSER";
+    src: url("../fonts/EVER-LOOSER.ttf");
+  }
+
+  @font-face {
+    font-family: "EVER-LOOSER-UNTEXTURED";
+    src: url("../fonts/EVER-LOOSER-UNTEXTURED.ttf");
+  }
